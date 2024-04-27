@@ -1,0 +1,1 @@
+This project aims to enhance the targeting accuracy of ordnance detection systems, specifically focusing on differentiating between landmines and grenades. A Convolutional Neural Network (CNN)-based model has been developed to reliably identify and classify ordnance variations, contributing to improving safety and precision in target detection operations.
